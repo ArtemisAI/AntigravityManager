@@ -4,3 +4,5 @@
 /.vite
 README.md
 /src/routeTree.gen.ts
+.agents/
+openspec/
