@@ -35,8 +35,8 @@
 
 <p align="center">
   <strong>🧪 内测版：</strong>
-  <a href="https://github.com/Draculabo/AntigravityManager/releases/tag/v0.3.3-beta.1">
-    下载 pre-release v0.3.3-beta.1
+  <a href="https://github.com/Draculabo/AntigravityManager/releases/tag/v0.3.4-beta.1">
+    下载 pre-release v0.3.4-beta.1
   </a>
 </p>
 
