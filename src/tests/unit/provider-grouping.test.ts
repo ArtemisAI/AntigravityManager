@@ -4,7 +4,6 @@ import {
   getProviderInfo,
   calculateProviderStats,
   groupModelsByProvider,
-  PROVIDER_REGISTRY,
 } from '@/utils/provider-grouping';
 
 describe('detectProvider', () => {
