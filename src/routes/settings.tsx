@@ -19,6 +19,9 @@ import { setAppLanguage } from '@/actions/language';
 import { useAppConfig } from '@/hooks/useAppConfig';
 import { Loader2, FolderOpen } from 'lucide-react';
 import { ModelVisibilitySettings } from '@/components/ModelVisibilitySettings';
+import { useEffect, useState } from 'react';
+import { ProxyConfig } from '@/types/config';
+import { openLogDirectory } from '@/actions/system';
 
 function SettingsPage() {
   const { theme, setTheme } = useTheme();
